@@ -1,0 +1,3 @@
+# Ignorar la carpeta de datos y todo su contenido
+data/
+~$proyecto1.xlsx
