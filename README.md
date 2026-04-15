@@ -22,3 +22,7 @@ Pasos realizados en el proyecto:
 - ✅ Dashboard interactivo mediante el uso de Segmentadores (Slicers) que permiten filtrar los datos por múltiples campos (ej: país).
 - ✅ El Segmentador debe estar conectado a todas las Tablas Dinámicas subyacentes del dashboard para garantizar la actualización total de los datos.
 - ✅ Aplicación de técnicas de formato para simular una aplicación (modo de pantalla completa, ocultando la cuadrícula, encabezados y la barra de fórmulas).
+
+### :orange_circle: Nivel Avanzado
+
+- ✅ Aplicación completa de las configuraciones para ocultar la interfaz de Excel (barras de desplazamiento y pestañas de hoja), haciendo que el archivo final parezca una aplicación.
