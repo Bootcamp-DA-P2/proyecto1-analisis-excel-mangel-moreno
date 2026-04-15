@@ -18,10 +18,7 @@ Pasos realizados en el proyecto:
 - ✅ Estructuración y diseño del dashboard, incluyendo formas y títulos para KPIs y gráficos.
 - ✅ Implementación de KPIs mediante cuadros de texto referenciados dinámicamente a celdas de las Tablas Dinámicas.
 
-### :orange_circle: Nivel Medio
+### :orange_circle: Nivel Experto
 - ✅ Dashboard interactivo mediante el uso de Segmentadores (Slicers) que permiten filtrar los datos por múltiples campos (ej: país).
 - ✅ El Segmentador debe estar conectado a todas las Tablas Dinámicas subyacentes del dashboard para garantizar la actualización total de los datos.
 - ✅ Aplicación de técnicas de formato para simular una aplicación (modo de pantalla completa, ocultando la cuadrícula, encabezados y la barra de fórmulas).
-
-### :red_circle: Nivel Experto
-✅ Aplicación completa de las configuraciones para ocultar la interfaz de Excel (barras de desplazamiento y pestañas de hoja), haciendo que el archivo final parezca una aplicación.
