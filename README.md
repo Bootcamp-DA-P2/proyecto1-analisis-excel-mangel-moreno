@@ -1,5 +1,7 @@
 # proyecto1-analisis-excel-mangel-moreno
 Análisis de datos y Dashboard interactivo en Excel
+<<<<<<< HEAD
+=======
 
 Pasos realizados en el proyecto:
 
@@ -26,3 +28,4 @@ Pasos realizados en el proyecto:
 ### :orange_circle: Nivel Avanzado
 
 - ✅ Aplicación completa de las configuraciones para ocultar la interfaz de Excel (barras de desplazamiento y pestañas de hoja), haciendo que el archivo final parezca una aplicación.
+>>>>>>> 0e33cea773438c4c99634063e614c7294ca6290b
