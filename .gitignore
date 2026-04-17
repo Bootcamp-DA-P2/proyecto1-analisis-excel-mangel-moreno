@@ -1,3 +1,4 @@
 # Ignorar la carpeta de datos y todo su contenido
 data/
+# Ignorar fichero de guardado temporal de excel
 ~$proyecto1.xlsx
